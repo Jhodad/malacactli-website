@@ -1,0 +1,71 @@
+.full {
+    display: flex;
+    width: 100%;
+    margin: 0;
+
+    flex-direction: column;
+    padding: 0;
+}
+
+.testt {
+    margin: 0;
+}
+
+.footer {
+    background-color: rgb(46, 46, 46);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-self: center;
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+    height: 5vh;
+    width: 100%;
+    padding: 0;
+    box-shadow: inset 0 0 1em .1em rgb(0, 0, 0);
+
+}
+
+.rgb-Line-f {
+    display: block;
+    width: 100%;
+    height: 0.2vh;
+    margin: 0;
+    background: rgba(199, 207, 221, 0.192);
+    /* background: -webkit-linear-gradient(left, #81730a, #d6d61d, #f8f1a2, #d6d61d, #81730a); */
+    background: -webkit-linear-gradient(left, #07360d, #00CB07, #a2f8a5, #00CB07, #07360d);
+    background: -o-linear-gradient(left, #07360d, #00CB07, #a2f8a5, #00CB07, #07360d);
+    background: -moz-linear-gradient(left, #07360d, #00CB07, #a2f8a5, #00CB07, #07360d);
+    background: linear-gradient(to right, #07360d, #00CB07, #a2f8a5, #00CB07, #07360d);
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0;
+    text-decoration: none;
+    text-decoration-color: currentcolor;
+    list-style-type: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    word-break: break-all;
+    animation: slide 6s linear infinite;
+
+}
+
+.footer-text {
+    margin: 0;
+    padding: .2em;
+}
+
+.footer-logo {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-self: center;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: .4em;
+    width: max-content;
+}
