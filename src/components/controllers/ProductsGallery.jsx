@@ -61,8 +61,9 @@ function ProductsGallery() {
                                 pPrice={products.precio}
                                 pColors={products.colores}
                                 pCollectionURL={retrievedURL} />
+                                
                         </Col>
-                    ))
+                    )) 
                 }
             </Row >
         </div>

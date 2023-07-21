@@ -33,9 +33,9 @@ function Contact() {
                     <Col fluid="true" className="contact-column" xl>
                         <Container fluid="true" className="contact-SN">
                             <Image className="contact-img-l" src={leon3} />
-                            <Row  fluid="true"  className="contact-overlay-l">
+                            <Row fluid="true" className="contact-overlay-l">
                                 <Image className="contact-SM-logo" src={instaLogo} />
-                                <Container  fluid="true"  className="contact-SM-logo-text">
+                                <Container fluid="true" className="contact-SM-logo-text">
                                     <h1>INSTRAGRAM</h1>
                                 </Container>
                             </Row>
@@ -45,9 +45,9 @@ function Contact() {
                     <Col fluid="true" className="contact-column" xl>
                         <Container fluid="true" className="contact-SN">
                             <Image className="contact-img-r" src={shaun1} />
-                            <Row  fluid="true"  className="contact-overlay-r">
+                            <Row fluid="true" className="contact-overlay-r">
                                 <Image className="contact-SM-logo" src={fbLogo} />
-                                <Container  fluid="true"  className="contact-SM-logo-text">
+                                <Container fluid="true" className="contact-SM-logo-text">
                                     <h1>FACEBOOK</h1>
                                 </Container>
                             </Row>

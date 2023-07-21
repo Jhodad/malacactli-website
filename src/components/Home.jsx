@@ -40,14 +40,14 @@ function Home() {
       {/* ======================== */}
       {/*     WELCOME TEXT         */}
       {/* ======================== */}
-      <Container fluid="true" className="page-holder-modules">
+      {/* <Container fluid="true" className="page-holder-modules">
         <Container fluid="true" className="welcome-body welcome-text">
           <h1>Bienvenidos al sitio web</h1>
           <h3><br></br>
             Un sitio web dedicado blah blah blah   Un sitio web dedicado blah blah blah   Un sitio web dedicado blah blah blah   Un sitio web dedicado blah blah blah
           </h3>
         </Container>
-      </Container>
+      </Container> */}
 
 
       <Container className="body-splitter-xs">  </Container>
